@@ -21,6 +21,25 @@
 3- JavaScript and ES6 
 
 
+## Current Features:
+
+Add and manage tasks
+Overview of all your tasks at a glance
+Beautiful Material design and interface
+Easily adding and removing tasks
+
+## Planned Features
+
+Dark Mode (Toggle Coming soon)
+Set task due dates
+Task notifications
+Multiple Task Lists
+Task Priority
+Task Tags
+Dark Mode Toggle/Settings Menu
+Overview customization
+Localization
+Themes
 
 
 
