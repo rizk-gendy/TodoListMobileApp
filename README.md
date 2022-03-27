@@ -16,9 +16,9 @@
 
 ## Languages Used in the Project :
 
-1- React Native
-2- Html , CSS
-3- JavaScript and ES6 
+- React Native
+- Html , CSS
+- JavaScript and ES6 
 
 
 ## Current Features:
@@ -30,16 +30,16 @@
 
 ## Planned Features
 
-Dark Mode (Toggle Coming soon)
-Set task due dates
-Task notifications
-Multiple Task Lists
-Task Priority
-Task Tags
-Dark Mode Toggle/Settings Menu
-Overview customization
-Localization
-Themes
+- Dark Mode (Toggle Coming soon)
+- Set task due dates
+- Task notifications
+- Multiple Task Lists
+- Task Priority
+- Task Tags
+- Dark Mode Toggle/Settings Menu
+- Overview customization
+- Localization
+- Themes
 
 
 
@@ -47,3 +47,7 @@ Themes
 ## If you have any problem with code please contact me :
 
 - Linkedin Account : https://www.linkedin.com/in/rizk-gendy-49a095210/
+
+
+
+This app is an application from a youtube tutorial for https://www.youtube.com/channel/UCHgS0H3T3459H1e9QWK_Ezg 
