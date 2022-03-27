@@ -23,10 +23,10 @@
 
 ## Current Features:
 
-Add and manage tasks
-Overview of all your tasks at a glance
-Beautiful Material design and interface
-Easily adding and removing tasks
+- Add and manage tasks
+- Overview of all your tasks at a glance
+- Beautiful Material design and interface
+- Easily adding and removing tasks
 
 ## Planned Features
 
